@@ -1,9 +1,9 @@
-Hi, I’m Yunfan ZHANG. Now I am a EEE student and studying at University of Nottingham Ningbo China.
-I am very insteresting in software engineer and computer secience and currently I have create my Github account.
+Hi, I’m Yunfan ZHANG. Now I am an EEE student studying at Duke University.
+I am very interested in software engineering and computer science and currently, I have created my Github account.
 It is very happy to get in touch with many outstanding programmers here and I really wish I could have some communication here.
 
-My email is ssyyz7@nottingham.edu.cn. Please feel free to contact with me!
-I will try to upload project after we have learnt something in the collage.
+My email is yz845@duke.edu. Please feel free to contact me!
+I will try to upload the project after we have learned something in the collage.
 
 <!---
 OliverZHANG1206/OliverZHANG1206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
