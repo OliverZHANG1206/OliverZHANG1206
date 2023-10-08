@@ -1,4 +1,4 @@
-Hi, I’m Yunfan ZHANG. Now I am an EEE student studying at Duke University.
+Hi, I’m Yunfan ZHANG. Now I am an ECE student studying at Duke University.
 I am very interested in software engineering and computer science and currently, I have created my Github account.
 It is very happy to get in touch with many outstanding programmers here and I really wish I could have some communication here.
 
